@@ -1,0 +1,39 @@
+body {
+  background: #000000;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+@font-face {
+  font-family: "Roboto-Bold";
+  src: url("./assets/fonts/roboto/Roboto-Bold.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roboto-Light";
+  src: url("./assets/fonts/roboto/Roboto-Light.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "RobotoCondensed-Regular";
+  src: url("./assets/fonts/roboto/RobotoCondensed-Regular.ttf")
+    format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: url("./assets/fonts/fonts/Montserrat-Bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
